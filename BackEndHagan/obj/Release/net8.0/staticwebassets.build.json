@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "iLRkKlLSsjGBD2lm1gWFyEVnxt1GrIr6afjV1KCL07g=",
+  "Source": "QHijin",
+  "BasePath": "_content/QHijin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QHijin\\wwwroot",
+      "Source": "QHijin",
+      "ContentRoot": "D:\\Work\\Green Line\\HijinApi\\BackEndHagan\\wwwroot\\",
+      "BasePath": "_content/QHijin",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

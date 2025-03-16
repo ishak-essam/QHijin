@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Work\\Green Line\\HijinApi\\BackEndHagan\\wwwroot\\Items\\Images\\22.jpg",
+      "PackagePath": "staticwebassets\\Items\\Images\\22.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Green Line\\HijinApi\\BackEndHagan\\wwwroot\\Items\\Videos\\7.mp4",
+      "PackagePath": "staticwebassets\\Items\\Videos\\7.mp4"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.QHijin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.QHijin.props",
+      "PackagePath": "build\\QHijin.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QHijin.props",
+      "PackagePath": "buildMultiTargeting\\QHijin.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.QHijin.props",
+      "PackagePath": "buildTransitive\\QHijin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

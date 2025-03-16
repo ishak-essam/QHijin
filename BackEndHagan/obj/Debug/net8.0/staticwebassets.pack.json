@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\About\\1.png",
+      "PackagePath": "staticwebassets\\About\\1.png"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\About\\2.png",
+      "PackagePath": "staticwebassets\\About\\2.png"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\About\\4.png",
+      "PackagePath": "staticwebassets\\About\\4.png"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\About\\5.png",
+      "PackagePath": "staticwebassets\\About\\5.png"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\About\\6.png",
+      "PackagePath": "staticwebassets\\About\\6.png"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\Items\\Images\\1.jpg",
+      "PackagePath": "staticwebassets\\Items\\Images\\1.jpg"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\Items\\Images\\2.jpg",
+      "PackagePath": "staticwebassets\\Items\\Images\\2.jpg"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\Items\\Images\\3.jpg",
+      "PackagePath": "staticwebassets\\Items\\Images\\3.jpg"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\Items\\Images\\4.jpg",
+      "PackagePath": "staticwebassets\\Items\\Images\\4.jpg"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\Items\\Images\\5.jpg",
+      "PackagePath": "staticwebassets\\Items\\Images\\5.jpg"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\Items\\Images\\6.jpg",
+      "PackagePath": "staticwebassets\\Items\\Images\\6.jpg"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\Items\\Images\\7.jpg",
+      "PackagePath": "staticwebassets\\Items\\Images\\7.jpg"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\Items\\Images\\8.jpg",
+      "PackagePath": "staticwebassets\\Items\\Images\\8.jpg"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\Items\\Images\\9.jpg",
+      "PackagePath": "staticwebassets\\Items\\Images\\9.jpg"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\Items\\Videos\\2.mp4",
+      "PackagePath": "staticwebassets\\Items\\Videos\\2.mp4"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\Items\\Videos\\3.mp4",
+      "PackagePath": "staticwebassets\\Items\\Videos\\3.mp4"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\Items\\Videos\\4.mp4",
+      "PackagePath": "staticwebassets\\Items\\Videos\\4.mp4"
+    },
+    {
+      "Id": "D:\\Work\\HaganBack\\Qhijin\\BackEndHagan\\wwwroot\\SocialMediaImages\\1.jpg",
+      "PackagePath": "staticwebassets\\SocialMediaImages\\1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QHijin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QHijin.props",
+      "PackagePath": "build\\QHijin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QHijin.props",
+      "PackagePath": "buildMultiTargeting\\QHijin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QHijin.props",
+      "PackagePath": "buildTransitive\\QHijin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
